@@ -27,7 +27,7 @@ class BetterCreature:
     def __init__(self):
         self.stats = [10, 10, 10]
 
-    # Here we can see addition of any new attribute will require changes in all these properties and is error prone
+    # Here we can see addition of any new attribute will require no changes
     @property
     def sum_of_stats(self):
         return sum(self.stats)
