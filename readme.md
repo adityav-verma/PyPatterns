@@ -70,7 +70,7 @@
 
 ## Memento
 - Yield tokens representing system states
-- TOkens do not allow direct manipulation, but can be used in appropriate APIs
+- Tokens do not allow direct manipulation, but can be used in appropriate APIs
 
 
 ## Observer
